@@ -1,0 +1,1 @@
+Turns your ai photo into a human photo, with metadata of a real camera generated at random added to the metadata of the file and some compression and blurring etc is done as well just in case that this scripts stops any possible visual detection methods as well.
