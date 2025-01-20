@@ -1,5 +1,3 @@
----
-
 # AI Image Humanization Script
 
 ## Overview
